@@ -1,5 +1,5 @@
 {
-  "name": "react-native-view-overflow",
+  "name": "@outfix/react-native-view-overflow",
   "description": "solve view overflow in android",
   "version": "0.0.4",
   "author": "entria",
